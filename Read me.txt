@@ -1,0 +1,4 @@
+To run the front end code.
+Make sure that u have python and have installed streamlit packages
+
+command to execute: python -m streamlit run front_final.py
